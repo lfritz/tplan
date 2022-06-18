@@ -1,0 +1,10 @@
+start: 2022-06-13
+weekend: Sat, Sun
+off: 2022-10-03
+
+foo                                       4  2022-06-17  2022-06-20
+bar                                       5  2022-06-24  2022-06-24
+baz                                       6
+qux                                       2
+quux                                      1
+quuux                                     3
