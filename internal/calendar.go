@@ -71,6 +71,7 @@ func ParseWeekendSpec(s string) (days []time.Weekday, err error) {
 }
 
 func ParseDateSpec(s string) (days []Date, err error) {
+	// TODO parse ranges, e.g. 2022-07-01 -- 2022-07-10
 	days = []Date{}
 	if s == "" {
 		return
